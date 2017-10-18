@@ -1,0 +1,13 @@
+.addParts {
+    display:initial;
+}
+.hideParts {
+    display:none;
+}
+table {
+    margin-top: 10px;
+    border-collapse: collapse;
+}
+div {
+    margin-top:10px;
+}
